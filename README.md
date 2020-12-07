@@ -6,7 +6,7 @@ This is about several politicians around the United States who have disobeyed th
 | Gavin Newsom | Governor of California | [The Daily Beast](https://www.thedailybeast.com/california-governor-gavin-newsom-is-the-face-of-privileged-liberal-hypocrisy) |
 | Dianne Feinstein | Senator in California | [abc7news](https://abc7news.com/dianne-feinstein-viral-video-facemasks-coronavirus/8052416/) |
 | Andrew Cuomo | Governor of New York | [The Hill](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions) |
-| Muriel Bowser | The mayor of DC | [The Hill](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions) |
+| Muriel Bowser | Mayor of DC | [The Hill](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions) |
 | Nancy Palosi | Speaker of the House | [The Hill](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions) |
 | Kevin Stitt | Governor of Oklahoma | [The Hill](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions) |
 | Mike Parson | Governor of Missouri | [The Hill](https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions) |
