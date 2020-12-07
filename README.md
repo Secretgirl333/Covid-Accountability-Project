@@ -1,5 +1,5 @@
 # Covid-Accountability-Project
-This is about several politicians around the United States who have disobeyed their own Covid-19 regulations. 
+This is about several politicians around the United States who have disobeyed their own Covid-19 regulations. From mayors to governors who have all played a part in telling people to respect regulations from the pandemic, they themselves have slipped up. 
 
 | Name | Position | Source |
 | --- | --- | --- | 
