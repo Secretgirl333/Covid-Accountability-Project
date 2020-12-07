@@ -1,5 +1,5 @@
 # Covid-Accountability-Project
-This is about several politicians around the United States who have disobeyed their own Covid-19 regulations. From mayors to governors who have all played a part in telling people to respect regulations from the pandemic, they themselves have slipped up. It is important that our elected officials cooperate with the guidelines that they have set up. As politicians it is important that they set good examples to help keep the numbers low as the United States enter record breaking cases. If not, they must be held accountable for their actions. 
+This is about several politicians around the United States who have disobeyed their own Covid-19 regulations. From mayors to governors who have all played a part in telling people to respect regulations from the pandemic, they themselves have slipped up. It is important that our elected officials cooperate with the guidelines that they have set up. As politicians, it is important that they set good examples to help keep the numbers low as the United States enter record breaking cases. If not, they must be held accountable for their actions. 
 
 | Name | Position | Source |
 | --- | --- | --- | 
