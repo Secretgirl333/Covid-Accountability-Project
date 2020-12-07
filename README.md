@@ -1,5 +1,5 @@
 # Covid-Accountability-Project
-This is about several politicians around the United States who have disobeyed their own Covid regulations. 
+This is about several politicians around the United States who have disobeyed their own Covid-19 regulations. 
 
 | Name | Position | Source |
 | --- | --- | --- | 
@@ -15,3 +15,5 @@ This is about several politicians around the United States who have disobeyed th
 | Steve Adler | Mayor of Austin | [Business Insider](https://www.businessinsider.com/democratic-politicians-who-violated-covid-19-rules-guidance-list-2020-12) |
 
 Know of any other politicians who fit this list? Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdDaAxkWCeZDl47P7jcBLRItIRbQS55YiZaUd9A51Xd4Wk-Tg/viewform?usp=sf_link) to add on
+
+Please reach out for any additional suggestions, feature requests, questions, or comments at this email: hanaa.hindi183@gmail.com
