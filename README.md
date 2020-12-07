@@ -3,7 +3,7 @@ This is about several politicians around the United States who have disobeyed th
 
 | Name | Position | Source |
 | --- | --- | --- | 
-| Gavin Newsom | Governor of California | The Daily Beast |
+| Gavin Newsom | Governor of California | [The Daily Beast](https://www.thedailybeast.com/california-governor-gavin-newsom-is-the-face-of-privileged-liberal-hypocrisy) |
 | Dianne Feinstein | Senator in California | https://abc7news.com/dianne-feinstein-viral-video-facemasks-coronavirus/8052416/ |
 | Andrew Cuomo | Governor of New York | https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions |
 | Muriel Bowser | The mayor of DC | https://thehill.com/homenews/state-watch/527465-governors-take-heat-for-violating-their-own-coronavirus-restrictions |
