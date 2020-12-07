@@ -1,5 +1,6 @@
 # Covid-Accountability-Project
 This is about several politicians around the United States who have disobeyed their own Covid regulations. 
+
 Know of any other politicians who fit this list? Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdDaAxkWCeZDl47P7jcBLRItIRbQS55YiZaUd9A51Xd4Wk-Tg/viewform?usp=sf_link) to add on
 
 | Name | Position | Source |
