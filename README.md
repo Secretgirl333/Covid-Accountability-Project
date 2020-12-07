@@ -1,8 +1,6 @@
 # Covid-Accountability-Project
 This is about several politicians around the United States who have disobeyed their own Covid regulations. 
 
-Know of any other politicians who fit this list? Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdDaAxkWCeZDl47P7jcBLRItIRbQS55YiZaUd9A51Xd4Wk-Tg/viewform?usp=sf_link) to add on
-
 | Name | Position | Source |
 | --- | --- | --- | 
 | Gavin Newsom | Governor of California | [The Daily Beast](https://www.thedailybeast.com/california-governor-gavin-newsom-is-the-face-of-privileged-liberal-hypocrisy) |
@@ -15,3 +13,5 @@ Know of any other politicians who fit this list? Fill out the [Google Form](http
 | Sheila Kuehl | Los Angeles County Supervisor | [Business Insider](https://www.businessinsider.com/democratic-politicians-who-violated-covid-19-rules-guidance-list-2020-12) |
 | Michael Hancock | Mayor of Denver | [Business Insider](https://www.businessinsider.com/democratic-politicians-who-violated-covid-19-rules-guidance-list-2020-12) |
 | Steve Adler | Mayor of Austin | [Business Insider](https://www.businessinsider.com/democratic-politicians-who-violated-covid-19-rules-guidance-list-2020-12) |
+
+Know of any other politicians who fit this list? Fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdDaAxkWCeZDl47P7jcBLRItIRbQS55YiZaUd9A51Xd4Wk-Tg/viewform?usp=sf_link) to add on
